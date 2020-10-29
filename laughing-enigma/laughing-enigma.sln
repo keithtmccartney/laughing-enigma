@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laughing-enigma", "laughing-enigma\laughing-enigma.csproj", "{523550C3-B32A-4BB0-AD49-68CBF7330EA1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laughing-enigmaML.Model", "laughing-enigmaML.Model\laughing-enigmaML.Model.csproj", "{BCB5194A-1E7C-44E6-BEE4-8A856A07C591}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laughing-enigmaML.ConsoleApp", "laughing-enigmaML.ConsoleApp\laughing-enigmaML.ConsoleApp.csproj", "{B7434DCA-6912-4474-8F98-89BFA17F58FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{523550C3-B32A-4BB0-AD49-68CBF7330EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{523550C3-B32A-4BB0-AD49-68CBF7330EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{523550C3-B32A-4BB0-AD49-68CBF7330EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB5194A-1E7C-44E6-BEE4-8A856A07C591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB5194A-1E7C-44E6-BEE4-8A856A07C591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB5194A-1E7C-44E6-BEE4-8A856A07C591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB5194A-1E7C-44E6-BEE4-8A856A07C591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7434DCA-6912-4474-8F98-89BFA17F58FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7434DCA-6912-4474-8F98-89BFA17F58FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7434DCA-6912-4474-8F98-89BFA17F58FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7434DCA-6912-4474-8F98-89BFA17F58FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
