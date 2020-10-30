@@ -15,6 +15,7 @@ Grab the article at [http://blog.cypresspoint.com/2019/06/08/How-to-develop-a-Ma
 
 * Install the [ML.NET Model Builder (Preview)](https://marketplace.visualstudio.com/items?itemName=MLNET.07) tooling;
 * The 'Custom Scenario' option wasn't available so instead I chose 'Value prediction';
+* An additional dataset - train.csv - was found on the ["The Bottle Rocket Pattern In The Stock Market"](http://blog.cypresspoint.com/2017/10/06/the-bottle-rocket-pattern-in-the-stock-market.html) blog post;
 
 ## What's it all about?
 
