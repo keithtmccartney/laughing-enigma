@@ -10,4 +10,13 @@
     <Folder Include="Data\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="1.5.0-preview2" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\laughing-enigmaML.Model\laughing-enigmaML.Model.csproj" />
+  </ItemGroup>
+
 </Project>
