@@ -1,0 +1,10 @@
+G:\git\Source\Repos\laughing-enigma\laughing-enigma\laughing-enigmaML.Model\bin\Debug\netstandard2.0\MLModel.zip
+G:\git\Source\Repos\laughing-enigma\laughing-enigma\laughing-enigmaML.Model\bin\Debug\netstandard2.0\laughing-enigmaML.Model.deps.json
+G:\git\Source\Repos\laughing-enigma\laughing-enigma\laughing-enigmaML.Model\bin\Debug\netstandard2.0\laughing-enigmaML.Model.dll
+G:\git\Source\Repos\laughing-enigma\laughing-enigma\laughing-enigmaML.Model\bin\Debug\netstandard2.0\laughing-enigmaML.Model.pdb
+G:\git\Source\Repos\laughing-enigma\laughing-enigma\laughing-enigmaML.Model\obj\Debug\netstandard2.0\laughing-enigmaML.Model.csprojAssemblyReference.cache
+G:\git\Source\Repos\laughing-enigma\laughing-enigma\laughing-enigmaML.Model\obj\Debug\netstandard2.0\laughing-enigmaML.Model.AssemblyInfoInputs.cache
+G:\git\Source\Repos\laughing-enigma\laughing-enigma\laughing-enigmaML.Model\obj\Debug\netstandard2.0\laughing-enigmaML.Model.AssemblyInfo.cs
+G:\git\Source\Repos\laughing-enigma\laughing-enigma\laughing-enigmaML.Model\obj\Debug\netstandard2.0\laughing-enigmaML.Model.csproj.CoreCompileInputs.cache
+G:\git\Source\Repos\laughing-enigma\laughing-enigma\laughing-enigmaML.Model\obj\Debug\netstandard2.0\laughing-enigmaML.Model.dll
+G:\git\Source\Repos\laughing-enigma\laughing-enigma\laughing-enigmaML.Model\obj\Debug\netstandard2.0\laughing-enigmaML.Model.pdb
